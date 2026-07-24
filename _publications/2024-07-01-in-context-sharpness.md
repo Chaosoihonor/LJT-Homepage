@@ -6,7 +6,7 @@ permalink: /publication/2024-07-01-in-context-sharpness
 excerpt: 'Using in-context sharpness from inner representations as alerts for hallucination mitigation.'
 date: 2024-07-01
 venue: 'ICML 2024'
-citation: 'Shiqi Chen, Miao Xiong, &lt;b&gt;Junteng Liu&lt;/b&gt;, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. (2024). &amp;quot;In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.&amp;quot; &lt;i&gt;Proceedings of ICML 2024&lt;/i&gt;.'
+citation: 'Shiqi Chen, Miao Xiong, <b>Junteng Liu</b>, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. (2024). &quot;In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.&quot; <i>Proceedings of ICML 2024</i>.'
 ---
 
 Co-authored work.
