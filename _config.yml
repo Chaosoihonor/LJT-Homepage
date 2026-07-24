@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Junteng Liu"
 title_separator          : "-"
-name                     : &amp;name "Junteng Liu"
-description              : &amp;description "Junteng Liu's academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Chaosoihonor.github.io # The base hostname &amp; protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu's academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://Chaosoihonor.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/LJT-Homepage" # the subpath of your site, e.g. "/blog"
 repository               : "Chaosoihonor/LJT-Homepage"
@@ -136,7 +136,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &amp;twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
